@@ -7,7 +7,7 @@ Breaking news, analysis, and trending stories worldwide. Get the headlines that 
 
 ## 🌐 Website
 
-Explore BazzBuzz here: [**Live Demo**](https://www.bazz.buzz/)
+Explore BazzBuzz here: [**www.bazz.buzz**](https://www.bazz.buzz/)
 
 ## 💻 Technologies
 
