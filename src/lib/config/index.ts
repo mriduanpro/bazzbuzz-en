@@ -2,10 +2,10 @@ import type { Link } from "../types";
 
 export const SITE = {
   title: "BazzBuzz",
-  description: "A news website built with Astro",
+  description: "BazzBuzz: Breaking news, analysis, and trending stories worldwide. Get the headlines that matter, fast.",
   author: "M Riduan",
   url: "https://www.bazz.buzz",
-  github: "",
+  github: "https://github.com/mriduanpro",
   locale: "en-US",
   dir: "ltr",
   charset: "UTF-8",
