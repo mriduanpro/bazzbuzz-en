@@ -1,15 +1,15 @@
 import type { Link } from "../types";
 
 export const SITE = {
-  title: "Astro News",
+  title: "BazzBuzz",
   description: "A news website built with Astro",
-  author: "Mohammad Rahmani",
-  url: "https://astro-news-six.vercel.app",
-  github: "https://github.com/Mrahmani71/astro-news",
+  author: "M Riduan",
+  url: "https://www.bazz.buzz",
+  github: "",
   locale: "en-US",
   dir: "ltr",
   charset: "UTF-8",
-  basePath: "/",
+  basePath: "https://www.bazz.buzz/",
   postsPerPage: 4,
 };
 
@@ -66,33 +66,33 @@ export const OTHER_LINKS: Link[] = [
     text: "Cookie Policy",
   },
   {
-    href: "https://astro-news-six.vercel.app/rss.xml",
+    href: "https://www.bazz.buzz/rss.xml",
     text: "RSS",
   },
   {
-    href: "https://astro-news-six.vercel.app/sitemap-index.xml",
+    href: "https://www.bazz.buzz/sitemap-index.xml",
     text: "Sitemap",
   },
 ];
 
 export const SOCIAL_LINKS: Link[] = [
   {
-    href: "https://github.com",
+    href: "https://github.com/mriduanpro",
     text: "GitHub",
     icon: "github",
   },
   {
-    href: "httpe://www.t.me",
+    href: "httpe://t.me/emri_id",
     text: "Telegram",
     icon: "telegram",
   },
   {
-    href: "https://twitter.com",
-    text: "Twitter",
-    icon: "newTwitter",
+    href: "https://www.youtube.com/@EmriReal",
+    text: "YouTube",
+    icon: "youtube",
   },
   {
-    href: "https://www.facebook.com",
+    href: "https://www.facebook.com/cakdumek",
     text: "Facebook",
     icon: "facebook",
   },
