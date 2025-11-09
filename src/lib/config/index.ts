@@ -9,7 +9,7 @@ export const SITE = {
   locale: "en-US",
   dir: "ltr",
   charset: "UTF-8",
-  basePath: "https://www.bazz.buzz/",
+  basePath: "/",
   postsPerPage: 4,
 };
 
