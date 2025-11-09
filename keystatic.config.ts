@@ -7,7 +7,7 @@ export default config({
   },
   ui: {
     brand: {
-      name: "Astro News",
+      name: "BazzBuzz",
     },
     navigation: ["---", "articles", "---", "authors", "categories"],
   },
