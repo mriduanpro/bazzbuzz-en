@@ -87,11 +87,6 @@ export const SOCIAL_LINKS: Link[] = [
     icon: "telegram",
   },
   {
-    href: "https://www.youtube.com/@EmriReal",
-    text: "YouTube",
-    icon: "youtube",
-  },
-  {
     href: "https://www.facebook.com/cakdumek",
     text: "Facebook",
     icon: "facebook",
