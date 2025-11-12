@@ -1,0 +1,2 @@
+// Adsterra - Social Bar
+(function(){injectScript([{"attr":[{"name":"type","value":"text/javascript"},{"name":"src","value":"//hustlereadcoffeehouse.com/c6/7f/17/c67f17d6e15abcc9f97341db0404b073.js"}],"tag":"script","inner":""}],{"target":"body"});function injectScript(e,t){let n=t.target;for(let t of e){let e=t.tag,r=t.inner,o=document.createElement(e);o.innerHTML=r;let c=t.attr;for(let e of c)o.setAttribute(e.name,e.value);document.querySelector(n)&&document.querySelector(n).append(o)}}})();
